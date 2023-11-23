@@ -41,6 +41,11 @@ k6, grafana를 이용한 부하테스트
 
 ![image](https://github.com/Fashion-Cloud/.github/assets/88549117/cb8ea75b-6d92-4932-bfa1-1897f77bf19c)
 
+ELK를 이용한 API 호출 위치 시각화
+
+![image](https://github.com/Fashion-Cloud/.github/assets/88549117/49e89414-9c21-4302-9df4-f8ee57d7a919)
+
+
 <br> <br>
 
 # 👨‍👩‍👧‍👦 Contributors
