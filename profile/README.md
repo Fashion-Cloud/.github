@@ -33,6 +33,43 @@
 
 # 🌦️ Features
 
+![image](https://github.com/Fashion-Cloud/.github/assets/88549117/a2bbfdc5-f324-4981-8a15-52427f33ad1a)
+
+<table style="text-align: center; width: 1000px;">
+  <tbody>
+    <tr>
+      <th style="text-align: center;">회원가입/로그인 화면</th>
+      <th style="text-align: center;">메인 화면</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/35a0ba7e-5d50-4ab8-b3ce-8f7926a692a4" width="500px"/></td>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/42f04d4b-bd1a-43f2-88dc-b901f6941819" width="500px" /></td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">24시간 스토리 기능</th>
+      <th style="text-align: center;">룩북 기능</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/94e52a82-df6b-401a-9d06-0d0a2d641e9b" width="500px" /></td>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/43358063-d02b-42b7-8ec3-c8d5a173a50c" width="500px" /></td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">날씨/체감기온별 데일리룩 공유 기능</th>
+      <th style="text-align: center;">마이페이지</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/22ca25ac-3d74-4313-9aa5-907d366fcc26" width="500px" /></td>
+      <td><img src="https://github.com/Fashion-Cloud/.github/assets/88549117/a8202ab2-f3ff-41c0-8107-23e85f7cc453" width="500px" /></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
 <br> <br>
 
 # 📈 Monitoring
