@@ -27,10 +27,6 @@
 
 <br> <br>
 
-# 💻 Architecture
-
-<br> <br>
-
 # 🌦️ Features
 
 ![image](https://github.com/Fashion-Cloud/.github/assets/88549117/a2bbfdc5-f324-4981-8a15-52427f33ad1a)
